@@ -4,6 +4,9 @@
             "web": "1.0.71",
             "android": "1.0.6",
             "ios": "1.1"
+        },
+        {
+            "titulo": "Atualização disponível"
         }
     ]
 }
