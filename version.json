@@ -8,5 +8,15 @@
         {
             "titulo": "Atualização disponível"
         }
+    ],
+    "consulta_mobile": [
+        {
+            "web": "1.0.71",
+            "android": "1.0.0",
+            "ios": "1.0.2"
+        },
+        {
+            "titulo": "Atualização disponível"
+        }
     ]
 }
