@@ -11,6 +11,18 @@
             "titulo": "Atualização disponível"
         }
     ],
+"appnfe": [
+        {
+            "web": "4.0.606",
+            "android": "1.0.22",
+            "ios": "1.0.6",
+            "linkloja_android": "https://play.google.com/store/apps/details?id=com.test.gnotamobileappnfe",
+            "linkloja_ios": "https://apps.apple.com/br/app/otimizou/1625702542"
+        },
+        {
+            "titulo": "Atualização disponível"
+        }
+    ],
     "consulta_mobile": [
         {
             "web": "1.0.71",
