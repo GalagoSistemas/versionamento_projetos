@@ -8,10 +8,10 @@
             "linkloja_ios": "https://apps.apple.com/br/app/cashz/id6692627701"
         },
         {
-            "titulo": "Atualização disponível"
+            "titulo": "PWA disponível na versao web"
         }
     ],
-"appnfe": [
+    "appnfe": [
         {
             "web": "4.0.606",
             "android": "1.0.22",
@@ -20,17 +20,71 @@
             "linkloja_ios": "https://apps.apple.com/br/app/otimizou/1625702542"
         },
         {
+            "titulo": "Integração cashz em TESTE - EM BREVE DISPONÍVEL"
+        }
+    ],
+    "revenda": [
+        {
+            "web": "4.0.16",
+            "android": "1.0.10",
+            "ios": "0.0.11",
+            "link_web": "https://revenda.appgalago.com/",
+            "linkloja_android": "https://play.google.com/store/apps/details?id=io.ionic.starter.revenda",
+            "linkloja_ios": "https://apps.apple.com/cl/app/revenda-galago/id1572335954"
+        },
+        {
             "titulo": "Atualização disponível"
+        }
+    ],
+    "pedido": [
+        {
+            "web": "4.0.29",
+            "android": "1.0.67",
+            "ios": "",
+            "link_web": "https://pedido.appgalago.com/",
+            "linkloja_android": "https://play.google.com/store/apps/details?id=com.test.pedidoeletronicomobile",
+            "linkloja_ios": ""
+        },
+        {
+            "titulo": "Pedido OFF + Leitura de codigo no lancamento do item sendo desenvolvido"
         }
     ],
     "consulta_mobile": [
         {
             "web": "1.0.71",
             "android": "1.0.0",
-            "ios": "1.0.0"
+            "ios": "1.0.0",
+            "link_web": "https://mobile.appgalago.com/",
+            "linkloja_android": "(em desenvolvimento - sem data prevista)",
+            "linkloja_ios": "(em desenvolvimento - sem data prevista)"
         },
         {
-            "titulo": "Atualização disponível"
+            "titulo": "Em desenvolvimento, sem data prevista"
+        }
+    ],
+    "catalogo": [
+        {
+            "web": "4.0.146",
+            "android": "Apenas PWA",
+            "ios": "Apenas PWA",
+            "link_web": "https://{{plataforma}}.galagoshop.com.br/",
+            "linkloja_android": "(em desenvolvimento - sem data prevista)",
+            "linkloja_ios": "(em desenvolvimento - sem data prevista)"
+        },
+        {
+            "titulo": "Atualização disponível",
+            "ordem_servico": {
+                "data_solicitacao": "25/09/2024 12:00",
+                "quem_solicitou": "jonathan",
+                "dados_acesso": {
+                    "plataforma": "",
+                    "email_cnpj_cpf": "",
+                    "senha": ""
+                },
+                "descricao": "quantidade indo errado na mensagem do whatsapp",
+                "data_publicacao_corrigida": "25/09/2024 12:00",
+                "versao_corrigidas": "4.0.146"
+            }
         }
     ]
 }
