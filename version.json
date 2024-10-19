@@ -70,7 +70,7 @@
     ],
     "catalogo": [
         {
-            "web": "4.0.146",
+            "web": "4.0.147",
             "android": "Apenas PWA",
             "ios": "Apenas PWA",
             "link_web": "https://{{plataforma}}.galagoshop.com.br/",
@@ -80,16 +80,16 @@
         {
             "titulo": "Atualização disponível",
             "ordem_servico": {
-                "data_solicitacao": "25/09/2024 12:00",
+                "data_solicitacao": "07/10/2024 12:00",
                 "quem_solicitou": "jonathan",
                 "dados_acesso": {
                     "plataforma": "",
                     "email_cnpj_cpf": "",
                     "senha": ""
                 },
-                "descricao": "quantidade indo errado na mensagem do whatsapp",
-                "data_publicacao_corrigida": "25/09/2024 12:00",
-                "versao_corrigidas": "4.0.146"
+                "descricao": "sem funcao de recuperar senha",
+                "data_publicacao_corrigida": "19/10/2024 11:49",
+                "versao_corrigidas": "4.0.147"
             }
         }
     ]
