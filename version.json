@@ -92,5 +92,18 @@
                 "versao_corrigidas": "4.0.147"
             }
         }
-    ]
+    ],
+      "cashzempresas": [
+        {
+            "web": "0.0.000",
+            "web_teste": "0.0.000",
+            "android": "1.0.4",
+            "ios": "1.0.1",
+            "linkloja_android": "https://play.google.com/store/apps/details?id=com.galago.cashzempresas",
+            "linkloja_ios": "https://apps.apple.com/app/cashz-empresas/id6723905134"
+        },
+        {
+            "titulo": "Integração cashz em TESTE - EM BREVE DISPONÍVEL"
+        }
+    ],
 }
