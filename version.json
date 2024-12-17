@@ -18,8 +18,8 @@
     ],
     "appnfe": [
         {
-            "web": "4.0.620",
-            "web_teste": "4.0.620",
+            "web": "4.0.621",
+            "web_teste": "4.0.621",
             "android": "1.0.22",
             "ios": "1.0.6",
             "linkloja_android": "https://play.google.com/store/apps/details?id=com.test.gnotamobileappnfe",
