@@ -70,7 +70,7 @@
     ],
     "catalogo": [
         {
-            "web": "4.0.150",
+            "web": "4.0.161",
             "android": "Apenas PWA",
             "ios": "Apenas PWA",
             "link_web": "https://{{plataforma}}.galagoshop.com.br/",
