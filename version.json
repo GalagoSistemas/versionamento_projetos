@@ -44,7 +44,7 @@
     ],
     "pedido": [
         {
-            "web": "4.0.29", 
+            "web": "4.0.31", 
             "android": "1.0.75",
             "ios": "",
             "link_web": "https://pedido.appgalago.com/",
