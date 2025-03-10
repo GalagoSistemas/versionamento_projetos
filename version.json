@@ -74,6 +74,7 @@
             "android": "Apenas PWA",
             "ios": "Apenas PWA",
             "link_web": "https://{{plataforma}}.galagoshop.com.br/",
+            "link_web_teste": "https://renatovalerio.katalog.com.br/",
             "linkloja_android": "(em desenvolvimento - sem data prevista)",
             "linkloja_ios": "(em desenvolvimento - sem data prevista)"
         },
