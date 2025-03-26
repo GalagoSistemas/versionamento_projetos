@@ -46,7 +46,7 @@
         {
             "web": "4.0.31", 
             "android": "1.0.77",
-            "ios": "",
+            "ios": "1.0",
             "link_web": "https://pedido.appgalago.com/",
             "linkloja_android": "https://play.google.com/store/apps/details?id=com.test.pedidoeletronicomobile",
             "linkloja_ios": ""
