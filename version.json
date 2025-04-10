@@ -1,8 +1,8 @@
 {
     "cashz": [
         {
-            "web": "1.0.80",
-            "current_web": "1.0.79",
+            "web": "1.0.82",
+            "current_web": "1.0.82",
             "android": "1.0.16",
             "current_android": "1.0.16",
             "ios": "1.0.7",
@@ -19,7 +19,7 @@
     "appnfe": [
         {
             "web": "4.0.631",
-            "web_teste": "4.0.633",
+            "web_teste": "4.0.634",
             "android": "1.0.22",
             "ios": "1.0.6",
             "linkloja_android": "https://play.google.com/store/apps/details?id=com.test.gnotamobileappnfe",
