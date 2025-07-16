@@ -33,7 +33,7 @@
         {
             "web": "4.0.18",
             "android": "1.0.19",
-            "ios": "0.0.19",
+            "ios": "1.0.19",
             "link_web": "https://revenda.appgalago.com/",
             "linkloja_android": "https://play.google.com/store/apps/details?id=io.ionic.starter.revenda",
             "linkloja_ios": "https://apps.apple.com/cl/app/revenda-galago/id1572335954"
