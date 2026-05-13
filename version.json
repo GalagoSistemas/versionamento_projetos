@@ -18,10 +18,10 @@
     ],
     "appnfe": [
         {
-            "web": "4.0.697",
-            "web_teste": "4.0.695",
-            "android": "1.0.24",
-            "ios": "1.0.8",
+            "web": "4.0.708",
+            "web_teste": "4.0.708",
+            "android": "1.0.29",
+            "ios": "1.0.9",
             "linkloja_android": "https://play.google.com/store/apps/details?id=com.test.gnotamobileappnfe",
             "linkloja_ios": "https://apps.apple.com/br/app/otimizou/1625702542"
         },
